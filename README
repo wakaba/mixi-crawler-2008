@@ -1,0 +1,24 @@
+mixicrawler-2008
+~~~~~~~~~~~~~~~~
+
+* Description
+
+This directory contains a simple mixi crawler implementation, which
+can be used to obtain list of communities and their members by
+traversing hyperlinks appearing in the mixi Web site
+<http://mixi.jp/>.
+
+* Acknowledgements
+
+Thanks to Atsushi Mori and Sho Tsugawa for their contributions.
+
+* License
+
+Copyright 2008 Wakaba <w@suika.fam.cx>.
+
+This program is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+Note that this directory contains copies of Perl modules |File::Path|
+and |WWW::Mixi|.  See their documentations for the license terms
+applied applied to them.
